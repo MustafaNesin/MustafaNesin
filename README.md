@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on _a local repository_.
-- 🌱 I’m currently learning **C and Assembly**... <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with **WinAPI**...
-- 💬 Ask me about **.NET Desktop Applications**...
+- 🌱 I’m currently learning **Web Programming**... <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with **WinAPI**... -->
+- 💬 Ask me about **.NET Applications**...
 - 📫 How to reach me: **mstf.nesin@gmail.com**... <!-- - 😄 Pronouns: ... --> <!-- - ⚡ Fun fact: ... -->
 
 ## Lisans Eğitimi Süresince Çalışmalarım
