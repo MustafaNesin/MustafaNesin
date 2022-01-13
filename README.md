@@ -8,3 +8,4 @@
 - **1. Dönem Projesi:** LinearC (Matrisler ile çeşitli işlemler yapar, C, Konsol)
 - **2. Dönem Projesi:** Picker (Bilgisayar parçaları uyumluluğunu denetler, C#, .NET Framework, WinForms, EF6)
 - **3./4. Dönem Projesi:** GenZ (Sosyal medya projesi, C#, .NET 5, ASP.NET Core Blazor, EFCore)
+- **5. Dönem Projesi:** AuctionMarket (Açık artırma uygulaması, C#, .NET 6, ASP.NET Core Blazor, EFCore, SignalR, Clean Architecture, CQRS, Cookie Auth)
