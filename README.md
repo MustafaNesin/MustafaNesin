@@ -12,3 +12,4 @@
 - **6. Dönem Projeleri:**
   - FinanceLab (Trading simülasyonu, C#, .NET 6, ASP.NET Core Blazor, MongoDB, Clean Architecture, CQRS, Cookie Auth)
   - EscapeRoom (Evden kaçış oyunu, Tau-Prolog, Prolog, JavaScript, Bootstrap)
+- **7./8. Dönem Projesi:** Etkileşimli Mobil Alışveriş Uygulaması
